@@ -21,7 +21,7 @@ Perfect for cases like blocking **YouTube Shorts** while leaving the rest of You
 
 1. Clone or download this repository:
    ```sh
-   git clone https://github.com/yourname/pattern-blocker.git
+   git clone https://github.com/hosseinsadeghi/block-by-pattern-extension.git
    ```
 2. Open Chrome (or Edge, Brave, etc.) and go to:
    ```
